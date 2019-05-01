@@ -15,17 +15,18 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Slabo 27px', serif;
 font-family: 'Open Sans Condensed', sans-serif;
 font-family: 'Source Serif Pro', serif; */
+
 h1{
   color:#ACE4AA;
   font-family: 'open sans', san-sans-serif;
   font-size: 4em;
-
 }
 
 p{
   font-family: 'Raleway', sans-serif;
   font-size:2em;
 }
+
 a{
   font-family: 'Slabo 27px', serif;
   font-size:1.2em;
@@ -49,6 +50,7 @@ li{
 td{
   font-family: 'Source Serif Pro', serif;
   font-size:1.2em;
+  padding:1em;
 }
 
 
