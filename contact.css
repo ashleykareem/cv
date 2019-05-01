@@ -1,0 +1,51 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Slabo 27px', serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Source Serif Pro', serif; */
+
+body{
+  background-color:#6EA03D;
+  padding-left:6em;
+}
+.title{
+  color:#E9DAC6;
+  font-family:'Open Sans Condensed', sans-serif;
+  font-size: 4em;
+
+}
+.name{
+  color:#E9DAC6;
+  font-family: 'Raleway', sans-serif;
+  font-size:2.5em;
+}
+.email{
+  color:#E9DAC6;
+  font-family:'Montserrat', sans-serif;
+  font-size:2em;
+}
+.phone{
+  color:#E9DAC6;
+  font-family:'Montserrat', sans-serif;
+  font-size:2em;
+}
+.text{
+  color:#E9DAC6;
+  font-family:'Montserrat', sans-serif;
+  font-size:2em;
+}
+.address{
+  color:#E9DAC6;
+  font-family:'Montserrat', sans-serif;
+  font-size:2em;
+}
+form{
+  color:#E9DAC6;
+  font-family: 'Source Serif Pro', serif;
+  font-size:1.6em;
+}
+input{
+  font-size:1em;
+  text-align:justify;
+}

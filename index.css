@@ -1,0 +1,94 @@
+body{
+  background-color:#E7D7C1;
+  padding:auto;
+}
+a:hover{
+  color:#8C1C13;
+   background-color:#6EA03D;
+}
+.container{
+  background-color: #735751;
+}
+.headshot{
+  border-radius:15%;
+}
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Slabo 27px', serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Source Serif Pro', serif; */
+h1{
+  color:#BF4342;
+  font-family: 'open sans', san-sans-serif;
+  font-size: 4em;
+
+}
+.leadP{
+  font-family: 'Raleway', sans-serif;
+  font-size:2em;
+}
+a{
+  font-family: 'Slabo 27px', serif;
+  font-size:1.2em;
+}
+hr{
+border-top: 2px solid #735751;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size:1.5em;
+}
+.summary{
+  font-family: 'Raleway', sans-serif ;
+  font-size: 1.3em;
+}
+li{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size:1.1em;
+  list-style:none;
+
+}
+td{
+  font-family: 'Source Serif Pro', serif;
+  font-size:1.2em;
+}
+h3{
+  margin-top:3px;
+  padding-top:0;
+
+}
+
+.work{
+  padding-left:50px;
+  text-align: left;
+}
+
+.skill{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.1em;
+  /* padding-left:2em; */
+}
+
+/* hobby sheet  */
+
+.hobbiesBody{
+  background-color: #A78A7F;
+}
+
+.Hobbies{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size:4em;
+  text-align: center;
+  text-decoration-line: underline;
+}
+.hList{
+  font-family: 'Raleway', sans-serif;
+  font-size:1.6em;
+  list-style:none;
+  text-align:center;
+}
+.photo{
+  background-color: #8C1C13;
+}
+}
